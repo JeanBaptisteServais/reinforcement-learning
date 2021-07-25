@@ -9,6 +9,7 @@ Requirements :
 
 	- Python
 
+Goal: Mario die if he doen't find the arrival (we didn't put any punishment).
 
 ![image](https://user-images.githubusercontent.com/54853371/126910349-6859754e-a8a2-4659-b0cc-87de57b9b02d.png)
 <br><br>
