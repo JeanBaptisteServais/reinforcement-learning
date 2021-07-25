@@ -1,6 +1,6 @@
 # reinforcement-learning
 
-As gradient technic but with a probabily tree (if mario is still, relaunch the program ^^, after 5 relunch should work !)
+As gradient technic but with a probabily tree
 
 
 Requirements :
@@ -58,6 +58,8 @@ Mario dies and transforms the tree.
 Then we have the gradient. Here we tell Mario, if on the next square you have x% chance of finding a reward but lower than the previous condition (or guy is obliged to take an action) then try. But this percentage must be high enough otherwise Mario will not learn anything.
 Finally if the last two conditions are not met, Mario only moves randomly.
 
+
+(if mario is still, relaunch the program ^^, after 5 relunch should work !)
 
 ps: watching videos on the ai it looks bad so you're not kidding ^^
 
