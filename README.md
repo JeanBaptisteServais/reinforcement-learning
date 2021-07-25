@@ -14,7 +14,7 @@ Requirements :
 <br><br>
 
 Mario must find the rewards and get out. But it can do only that.
-For this, Mario makes random movements, and with each reward we save the route and start a new one without stopping the tour. Then save the road in a tree.
+For that, Mario makes random movements, and with each reward we save the route and start a new one without stopping the tour. Then save the road in a tree.
 After 200 movements Mario starts a turn again, “he dies”. Then save the road in a tree.
 The saving is done by: the position of the box in the map as well as the moving road: [position1 (x1, y1), position2 (x2, y2)… “dgdghb” or d = right, g = left, h = up, b = down.
 b = (0.25), h = (0, -25), c'25, 0), g = (- 25.0).
