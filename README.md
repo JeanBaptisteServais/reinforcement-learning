@@ -1,6 +1,6 @@
 # reinforcement-learning
 
-As gradient technic but with a probabily tree 
+As gradient technic but with a probabily tree (if mario is still, relaunch the program ^^)
 
 
 Requirements :
