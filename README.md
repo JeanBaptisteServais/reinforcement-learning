@@ -1,2 +1,3 @@
 # reinforcement-learning
-probability tree
+
+As gradient technic but with a probabily tree
