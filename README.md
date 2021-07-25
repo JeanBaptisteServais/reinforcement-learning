@@ -49,11 +49,14 @@ Mario dies and transforms the tree.
 
 
 <br>
+
 ![image](https://user-images.githubusercontent.com/54853371/126910356-be798127-b354-43c9-9481-9a50414d8b96.png)
+
 <br>
+
 Then we have the gradient. Here we tell Mario, if on the next square you have x% chance of finding a reward but lower than the previous condition (or guy is obliged to take an action) then try. But this percentage must be high enough otherwise Mario will not learn anything.
 Finally if the last two conditions are not met, Mario only moves randomly.
 
 
-
+ps: watching videos on the ai it looks bad so you're not kidding ^^
 
