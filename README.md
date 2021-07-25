@@ -1,6 +1,6 @@
 # reinforcement-learning
 
-As gradient technic but with a probabily tree (if mario is still, relaunch the program ^^, after 5 relunch could work !)
+As gradient technic but with a probabily tree (if mario is still, relaunch the program ^^, after 5 relunch should work !)
 
 
 Requirements :
